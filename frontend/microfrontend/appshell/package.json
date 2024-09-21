@@ -1,0 +1,14 @@
+{
+  "name": "appshell",
+  "version": "0.1.0",
+  "description": "main app shell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "appshell"
+  ],
+  "author": "lygalkina",
+  "license": "ISC"
+}
